@@ -1,4 +1,6 @@
-### Hi there 👋
+### Howdy there!
+
+I’m a software architect. Currently, I'm working as a software architect at PrepayPower. I’ve studied computer network engineering and am interested in software architecture, especially cloud architecture. On my free time, I enjoy spending time with my family, travelling and play tennis. 
 
 <!--
 **tiagolagartoesteves/tiagolagartoesteves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
